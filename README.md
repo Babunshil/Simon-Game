@@ -15,10 +15,11 @@ This game was built using HTML, CSS, and JavaScript. The game logic is implement
 
 ## Demo
 
-You can play the game online [here](insert link to the game).
+You can play the game online here : (https://babunshil.github.io/Simon-Game/).
 
 ## Screenshots
 
+![Screenshot 2023-04-08 155425](https://user-images.githubusercontent.com/106283743/230716289-3986ce43-1c8f-4db1-a649-a029fb1114ce.png)
 
 
 ## Installation
