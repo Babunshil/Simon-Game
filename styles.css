@@ -11,17 +11,15 @@ body {
 }
 
 .container {
-  display: block;
-  width: 50%;
+  width: 80%;
   margin: auto;
-
 }
 
 .btn {
   margin: 25px;
   display: inline-block;
-  height: 200px;
-  width: 200px;
+  height: 20vw;
+  width: 20vw;
   border: 10px solid black;
   border-radius: 20%;
 }
